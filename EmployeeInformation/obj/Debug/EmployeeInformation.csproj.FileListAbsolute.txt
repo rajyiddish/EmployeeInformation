@@ -1,0 +1,236 @@
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ApplicationInsights.config
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\csc.exe
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\csc.exe.config
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\csc.rsp
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\csi.exe
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\csi.rsp
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\System.AppContext.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\System.Collections.Immutable.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\System.IO.FileSystem.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\vbc.exe
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\vbc.exe.config
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\vbc.rsp
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\VBCSCompiler.exe
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\roslyn\VBCSCompiler.exe.config
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\EmployeeInformation.dll.config
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\EmployeeInformation.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\EmployeeInformation.pdb
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Antlr3.Runtime.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\EmpDetails.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.Web.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.WindowsServer.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.ApplicationInsights.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.Azure.KeyVault.Core.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.Data.Edm.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.Data.OData.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.Data.Services.Client.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.Web.Infrastructure.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.WindowsAzure.Storage.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Newtonsoft.Json.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Spatial.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.Helpers.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.Mvc.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.Optimization.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.Razor.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.WebPages.Deployment.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.WebPages.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.WebPages.Razor.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\WebGrease.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\EmpDetails.pdb
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.Azure.KeyVault.Core.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.Data.Edm.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.Data.OData.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.Data.Services.Client.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.WindowsAzure.Storage.pdb
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.WindowsAzure.Storage.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Newtonsoft.Json.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Spatial.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.Helpers.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.Mvc.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.Optimization.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.Razor.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.WebPages.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.WebPages.Deployment.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\System.Web.WebPages.Razor.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Antlr3.Runtime.pdb
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.ApplicationInsights.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.WindowsServer.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.Web.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\de\System.Spatial.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\es\System.Spatial.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\fr\System.Spatial.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\it\System.Spatial.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ja\System.Spatial.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ko\System.Spatial.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\ru\System.Spatial.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csprojResolveAssemblyReference.cache
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.pdb
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ApplicationInsights.config
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\csc.exe
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\csc.exe.config
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\csc.rsp
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\csi.exe
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\csi.rsp
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\System.AppContext.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\vbc.exe
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\vbc.exe.config
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\vbc.rsp
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\VBCSCompiler.exe
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\EmployeeInformation.dll.config
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\EmployeeInformation.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\EmployeeInformation.pdb
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Antlr3.Runtime.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\EmpDetails.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.Web.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.Data.Edm.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.Data.OData.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.Data.Services.Client.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Newtonsoft.Json.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Spatial.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.Helpers.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.Mvc.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.Optimization.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.Razor.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.WebPages.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.WebPages.Razor.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\WebGrease.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\EmpDetails.pdb
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.Data.Edm.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.Data.OData.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.Data.Services.Client.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Newtonsoft.Json.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Spatial.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.Helpers.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.Mvc.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.Optimization.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.Razor.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.WebPages.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\System.Web.WebPages.Razor.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Antlr3.Runtime.pdb
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Microsoft.AI.Web.xml
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\de\System.Spatial.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\es\System.Spatial.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\fr\System.Spatial.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\it\System.Spatial.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ja\System.Spatial.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ko\System.Spatial.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\ru\System.Spatial.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csprojResolveAssemblyReference.cache
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.dll
+C:\Users\e158365\Downloads\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.pdb
